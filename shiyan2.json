@@ -1541,21 +1541,21 @@
         {
             "name": "BESTV",
             "type": 0,
-            "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u",
+            "url": "https://raw.gitmirror.com/Ftindy/IPTV-URL/main/bestv.m3u",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo":"https://epg.112114.xyz/logo/{name}.png"
         },
         {
             "name": "GHYX",
             "type": 0,
-            "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/ghyx.m3u",
+            "url": "https://raw.gitmirror.com/Ftindy/IPTV-URL/main/ghyx.m3u",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo":"https://epg.112114.xyz/logo/{name}.png"
         },
         {
             "name": "CQYX",
             "type": 0,
-            "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/cqyx.m3u",
+            "url": "https://raw.gitmirror.com/Ftindy/IPTV-URL/main/cqyx.m3u",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo":"https://epg.112114.xyz/logo/{name}.png"
         },
@@ -1576,7 +1576,7 @@
         {
             "name": "蜂蜜18+",
             "type": 0,
-            "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/adult.txt",
+            "url": "https://raw.gitmirror.com/FongMi/CatVodSpider/main/txt/adult.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo":"https://epg.112114.xyz/logo/{name}.png"
         },
